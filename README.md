@@ -24,5 +24,6 @@ Usamos as bibliotecas CV2, matplotlib, numpy, math, time e pynput
 
 * [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 * [RSDharra](https://rsdharra.com/blog/lesson/15.html)
+* [Acervo Lima](https://acervolima.com/como-tracar-um-angulo-em-python-usando-matplotlib/#:~:text=Trace%20duas%20linhas%20que%20se,encontramos%20o%20%C3%A2ngulo%20entre%20eles.)
 * [pyimagesearch](https://pyimagesearch.com/2014/07/21/detecting-circles-images-using-opencv-hough-circles/)
 * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
