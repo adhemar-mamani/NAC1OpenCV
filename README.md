@@ -11,7 +11,7 @@
 ## Objetivo / descrição do Projeto
 
 Achar os circulos maiores, fazer uma linha do centro do primeiro circulo ate o segundo, descobrir o angulo da linha, rodar o projeto com a camera e usar o teclado de acordo com o angulo da linha para jogar um jogo
-Usamos as bibliotecas CV2, matplotlib, numpy, math
+Usamos as bibliotecas CV2, matplotlib, numpy, math, time e pynput
 
 
 
