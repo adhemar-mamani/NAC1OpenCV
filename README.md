@@ -17,7 +17,7 @@ Usamos as bibliotecas CV2, matplotlib, numpy, math, time e pynput
 
 ## Link de vídeo demonstração
 
-[Video](https://www.youtube.com/watch?v=xva71wynxS0)
+[Video](https://youtu.be/GhNyUNjKPXc)
 
 
 ### Referências 
